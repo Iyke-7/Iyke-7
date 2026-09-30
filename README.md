@@ -1,6 +1,6 @@
-👋 Hi, I’m @Iyke-7
+👋 Hi, I’m Isaac
 
-I just completed @Luke Barousse's 5-Day Data Analytics Crash Course!
+I have completed @Luke Barousse's 5-Day Data Analytics Crash Course!
 
 Over the past 5 days we went over the fundamentals:
 
